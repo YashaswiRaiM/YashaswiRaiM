@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I’m Yashaswi Rai
 
-<!--
-**YashaswiRaiM/YashaswiRaiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA graduate with an advanced diploma in AI & Big Data Analytics  
+Aspiring Data Analyst focused on Python, SQL, and data-driven insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Skills
+
+**Programming & Querying**  
+Python · SQL · Excel · Machine Learning 
+
+**Data Analysis & Visualization**  
+Pandas · NumPy · Matplotlib · Tableau  
+
+**Tools**  
+Git · GitHub ·MySQL · PostgreSQL  
+
+---
+
+## 🔍 What I Do
+- Clean and analyze structured datasets  
+- Write SQL queries for reporting and insights  
+- Build dashboards to support business decisions  
+
+---
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/yashaswi-rai-m-50069b357/  
+- Resume: https://drive.google.com/file/d/1wlDT2PHxqXUlvmIiiWiVjTfx24HlhM8u/view  
